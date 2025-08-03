@@ -30,7 +30,7 @@ Follow these steps to get the project up and running:
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/004Ongoro/pdf-analyzer
    cd pdf-analyzer
    ```
 
