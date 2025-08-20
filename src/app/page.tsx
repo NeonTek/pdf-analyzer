@@ -30,8 +30,9 @@ export default function Home() {
         <div className="flex flex-col h-full min-h-0">
           <ChatInterface file={file} />
         </div>
+        <Footer />
       </main>
-      <Footer />
+      
     </div>
   );
 }
