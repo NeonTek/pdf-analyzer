@@ -18,7 +18,7 @@ const Footer: React.FC = () => {
               title="NeonTek on LinkedIn"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-[var(--text-light)] text-lg p-2 rounded-full bg-white/5 flex items-center justify-center transition-all hover:text-[var(--primary-color)] hover:bg-[rgba(24,119,254,0.10)] hover:scale-110"
+              className="text-gray-700 dark:text-[var(--text-light)] text-lg p-2 rounded-full bg-white/5 flex items-center justify-center transition-all hover:text-[var(--primary-color)] hover:bg-[rgba(24,119,254,0.10)] hover:scale-110"
             >
               <i className="fab fa-linkedin"></i>
             </a>
@@ -28,7 +28,7 @@ const Footer: React.FC = () => {
               title="NeonTek on Instagram"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-[var(--text-light)] text-lg p-2 rounded-full bg-white/5 flex items-center justify-center transition-all hover:text-[var(--primary-color)] hover:bg-[rgba(24,119,254,0.10)] hover:scale-110"
+              className="text-gray-700 dark:text-[var(--text-light)] text-lg p-2 rounded-full bg-white/5 flex items-center justify-center transition-all hover:text-[var(--primary-color)] hover:bg-[rgba(24,119,254,0.10)] hover:scale-110"
             >
               <i className="fab fa-instagram"></i>
             </a>
@@ -38,7 +38,7 @@ const Footer: React.FC = () => {
               title="NeonTek on Facebook"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-[var(--text-light)] text-lg p-2 rounded-full bg-white/5 flex items-center justify-center transition-all hover:text-[var(--primary-color)] hover:bg-[rgba(24,119,254,0.10)] hover:scale-110"
+              className="text-gray-700 dark:text-[var(--text-light)] text-lg p-2 rounded-full bg-white/5 flex items-center justify-center transition-all hover:text-[var(--primary-color)] hover:bg-[rgba(24,119,254,0.10)] hover:scale-110"
             >
               <i className="fab fa-facebook-f"></i>
             </a>
@@ -48,7 +48,7 @@ const Footer: React.FC = () => {
               title="NeonTek's Website"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-[var(--text-light)] text-lg p-2 rounded-full bg-white/5 flex items-center justify-center transition-all hover:text-[var(--primary-color)] hover:bg-[rgba(24,119,254,0.10)] hover:scale-110"
+              className="text-gray-700 dark:text-[var(--text-light)] text-lg p-2 rounded-full bg-white/5 flex items-center justify-center transition-all hover:text-[var(--primary-color)] hover:bg-[rgba(24,119,254,0.10)] hover:scale-110"
             >
               <i className="fas fa-globe"></i>
             </a>
@@ -58,7 +58,7 @@ const Footer: React.FC = () => {
               title="NeonTek's Blog"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-[var(--text-light)] text-lg p-2 rounded-full bg-white/5 flex items-center justify-center transition-all hover:text-[var(--primary-color)] hover:bg-[rgba(24,119,254,0.10)] hover:scale-110"
+              className="text-gray-700 dark:text-[var(--text-light)] text-lg p-2 rounded-full bg-white/5 flex items-center justify-center transition-all hover:text-[var(--primary-color)] hover:bg-[rgba(24,119,254,0.10)] hover:scale-110"
             >
               <i className="fas fa-blog"></i>
             </a>
