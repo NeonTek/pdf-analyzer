@@ -5,7 +5,6 @@ import { ChatInterface } from '@/components/chat-interface';
 import { FileUploader } from '@/components/file-uploader';
 import { Logo } from '@/components/logo';
 import { PdfPreview } from '@/components/pdf-preview';
-import Footer from '@/components/footer';
 
 export default function Home() {
   const [file, setFile] = useState<File | null>(null);
@@ -30,7 +29,6 @@ export default function Home() {
         <div className="flex flex-col h-full min-h-0">
           <ChatInterface file={file} />
         </div>
-        <Footer />
       </main>
       
     </div>
