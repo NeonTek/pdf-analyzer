@@ -1,5 +1,3 @@
-import { Bot } from 'lucide-react';
-
 export function Logo() {
   return (
     <div className="flex items-center" aria-label="Tekscan PDF Analyzer">
